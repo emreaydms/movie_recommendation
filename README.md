@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-To, start with recommendation systems, i made a movie recommendator which have:
+To start with recommendation systems, i made a movie recommendator which have:
 
 ## 1. Simple Recommender
 
